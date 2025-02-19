@@ -1,4 +1,4 @@
-import Brewlytics from '../../assets/brewlytics.jpg';
+import Brewlytics from '../../assets/Brewlytics.jpg';
 import EVinsights from '../../assets/EVinsights.jpg';
 import HRVision from '../../assets/HRVision.jpg';
 import ProjectCard from '../../common/ProjectCard';
