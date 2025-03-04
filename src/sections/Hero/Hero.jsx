@@ -57,7 +57,7 @@ function Hero() {
             to drive businesss decisions.
         </p>
         <a href={CV} download>
-            <button className="hover">Resume</button>
+          <button className="hover">Resume</button>
         </a>
     </div>
   </section>
